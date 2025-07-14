@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Contact Number</name>
+   <tag></tag>
+   <elementGuidId>87478b8b-484b-4f92-beaf-697853f8d074</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Contact Number\*$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>190e338c-8cef-498b-bcb8-8d5ee06f1cf6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-sec-texts 2xl:col-span-6 lg:col-span-6 md:col-span-12 col-span-12</value>
+      <webElementGuid>eba6dd40-7936-47e1-8081-a2bcb0f51369</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Number*</value>
+      <webElementGuid>2cd66daf-bfbf-45d0-91b4-5c73362ba0a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[2]/div[@class=&quot;main-page-section&quot;]/div[@class=&quot;signup-selection&quot;]/div[@class=&quot;flex flex-wrap justify-center&quot;]/div[@class=&quot;w-full 2xl:pt-10 lg:pt-10 md:pt-5&quot;]/div[@class=&quot;relative flex flex-col min-w-0 break-words bg-white w-full mb-6&quot;]/div[@class=&quot;2xl:pb-14 2xl:pt-10 lg:pb-14 pb-7 pt-5 lg:pt-10 flex-auto&quot;]/div[@class=&quot;tab-content tab-space&quot;]/div[@class=&quot;grid grid-cols-12 gap-2&quot;]/div[@class=&quot;col-span-12&quot;]/div[@class=&quot;corporate-signup-sec&quot;]/div[@class=&quot;Fields-information-sec&quot;]/div[@class=&quot;organisation-info-sec&quot;]/div[@class=&quot;grid grid-cols-12 gap-4&quot;]/div[@class=&quot;xl:col-span-12 md:col-span-12 col-span-12&quot;]/div[@class=&quot;2xl:mt-12 lg:mt-12 mt-5&quot;]/div[@class=&quot;grid grid-cols-12 2xl:gap-6 lg:gap-6 gap-3&quot;]/div[@class=&quot;input-sec-texts 2xl:col-span-6 lg:col-span-6 md:col-span-12 col-span-12&quot;]</value>
+      <webElementGuid>ddab8650-cf28-4f1e-b8dd-c75e21140e07</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[4]</value>
+      <webElementGuid>6a4e56b6-e0f5-41bf-804d-b05fb1d320d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::div[2]</value>
+      <webElementGuid>ffd4ba96-911a-4f36-a8ad-4acef5f42f2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[4]</value>
+      <webElementGuid>e485df93-3b53-44dd-a825-2a9bc038b152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Contact Number*' or . = 'Contact Number*')]</value>
+      <webElementGuid>3b1ebb22-be1f-4443-b196-46f663cf75dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

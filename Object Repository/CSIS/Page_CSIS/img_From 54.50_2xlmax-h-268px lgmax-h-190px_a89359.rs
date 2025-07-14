@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_From 54.50_2xlmax-h-268px lgmax-h-190px_a89359</name>
+   <tag></tag>
+   <elementGuidId>bc83024e-4dc5-4f14-a9d7-b877ae41eecb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div[4]/div/div[2]/div[2]/div/div[2]/div/div/div[3]/a/div/div/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;In-Person0CPDWebinar 1st Test Marisca Webinar 06 Aug 2025From $54.50&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5b79b753-8e73-4c8b-823b-557d6e028f6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>2xl:max-h-[268px] lg:max-h-[190px] max-h-[150px]</value>
+      <webElementGuid>14341b83-5cb7-41af-883a-c9495dedae9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://csistest-api.flyingcapetech.com/api/Common/GetImage?type=\Events\BasicEventInformation-ListImage&amp;&amp;fileName=962ca4fa-cc2c-47af-afc4-2c319f8a3ba1.png</value>
+      <webElementGuid>7f647962-6659-455e-9999-78ec954dc8ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[1]/div[1]/div[@class=&quot;upcomming-event-main&quot;]/div[@class=&quot;main-page-section full-page event-page&quot;]/div[@class=&quot;body-part&quot;]/div[@class=&quot;grid grid-cols-12 gap-6&quot;]/div[@class=&quot;results-section md:pb-10 pb-0 2xl:col-span-9 lg:col-span-9 md:col-span-12 col-span-12 xl:pl-10 outside-click small-tab-device-full&quot;]/div[1]/div[@class=&quot;article-list-section&quot;]/div[@class=&quot;md:mt-14 mt-7&quot;]/div[@class=&quot;grid grid-cols-12 2xl:gap-12 gap-6 mx-auto&quot;]/div[@class=&quot;2xl:col-span-4 lg:col-span-6 md:col-span-6 sm:col-span-6 col-span-6 md:mb-0 mb-3 h-full w-full&quot;]/a[@class=&quot;h-full w-full cursor-pointer mb-2 d-block&quot;]/div[@class=&quot;event-main-card&quot;]/div[@class=&quot;top-img&quot;]/img[@class=&quot;2xl:max-h-[268px] lg:max-h-[190px] max-h-[150px]&quot;]</value>
+      <webElementGuid>4ffbf181-754c-44df-a1d2-ba2be9124244</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div[4]/div/div[2]/div[2]/div/div[2]/div/div/div[3]/a/div/div/img</value>
+      <webElementGuid>6e981db2-bdf6-4bc7-94e2-21dd21ab2b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[contains(@src,'https://csistest-api.flyingcapetech.com/api/Common/GetImage?type=\Events\BasicEventInformation-ListImage&amp;&amp;fileName=962ca4fa-cc2c-47af-afc4-2c319f8a3ba1.png')])[2]</value>
+      <webElementGuid>33a0b620-c2fb-4d15-8cdd-ec8703214444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/div/div/img</value>
+      <webElementGuid>06a8ad37-40b2-4ccd-bfea-284029a30346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://csistest-api.flyingcapetech.com/api/Common/GetImage?type=\Events\BasicEventInformation-ListImage&amp;&amp;fileName=962ca4fa-cc2c-47af-afc4-2c319f8a3ba1.png']</value>
+      <webElementGuid>614c89e3-1bd7-4634-b7e2-dddff53ca916</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

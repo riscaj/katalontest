@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Select File</name>
+   <tag></tag>
+   <elementGuidId>7060b6b5-6b3f-476e-bdc2-648fc43e5ed8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[3]/div/div[2]/div/div[3]/div/form/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Select File&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>871e81eb-7d58-4702-95ac-540cd4413254</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>upload_File</value>
+      <webElementGuid>b2c23579-dbbc-417d-9914-1904e8c7036c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-uplod block text-sm text-[#f93549] w-full</value>
+      <webElementGuid>3ada359d-3555-470c-8fe8-ab883328208e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select File</value>
+      <webElementGuid>364227bf-5ff3-474e-98a9-39cb7a8a5378</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[1]/div[@class=&quot;main-page-section md:mt-10&quot;]/div[@class=&quot;bottom-form&quot;]/div[@class=&quot;grid grid-cols-12 gap-6&quot;]/div[@class=&quot;col-span-12 md:mb-14 mb-5&quot;]/div[@class=&quot;grid grid-cols-12 lg:gap-6 gap-2 items-center mb-10&quot;]/div[@class=&quot;2xl:col-span-2 lg:col-span-3 md:col-span-3 col-span-4&quot;]/div[@class=&quot;flex items-center justify-center&quot;]/form[@class=&quot;custom-uploader custom-file-upload-btn flex justify-center items-center text-center btn btn-red-border&quot;]/label[@class=&quot;text-uplod block text-sm text-[#f93549] w-full&quot;]</value>
+      <webElementGuid>7d9433f3-6510-4982-ae60-0b10b9635c49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[3]/div/div[2]/div/div[3]/div/form/label</value>
+      <webElementGuid>a02f2d3e-3937-45ac-9552-ab72c31588b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File 1'])[1]/following::label[1]</value>
+      <webElementGuid>803f523e-c20a-4458-8060-dfb41c9c1425</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload File'])[1]/following::label[2]</value>
+      <webElementGuid>1788f86d-a6f4-41e7-87f5-72a7a46d158e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I am paying for someone'])[1]/preceding::label[1]</value>
+      <webElementGuid>b2ab617c-ea90-4581-933e-cc35173d9b06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Person Name'])[1]/preceding::label[2]</value>
+      <webElementGuid>d90f071f-d6c0-4b24-8cbc-5070c21ec839</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Select File']/parent::*</value>
+      <webElementGuid>9fc7efb5-b39b-416e-8734-c0b031c847a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/label</value>
+      <webElementGuid>1aca4eb3-9b53-4abc-9890-6a6f387d47f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Select File' or . = 'Select File')]</value>
+      <webElementGuid>2f48897a-f725-48de-b862-55eee11e63cc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

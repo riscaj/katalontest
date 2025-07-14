@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Individual</name>
+   <tag></tag>
+   <elementGuidId>cd5eb784-8da2-4b34-8b1a-9d838b211da4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div/ul/li[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;Individual&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>6cc79745-d6d2-4c51-a250-e2e3ebeb5e86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center signup-radio</value>
+      <webElementGuid>873a7878-aaf6-4aa1-8ac8-01f9ca7310e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Individual</value>
+      <webElementGuid>8cdfa233-da07-403d-b6b0-ac28c7e35b65</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[2]/div[@class=&quot;main-page-section&quot;]/div[@class=&quot;signup-selection&quot;]/div[@class=&quot;flex flex-wrap justify-center&quot;]/div[@class=&quot;w-full 2xl:pt-10 lg:pt-10 md:pt-5&quot;]/ul[@class=&quot;flex register-tab items-center md:mb-0 mb-6 list-none flex-wrap pt-3 pb-4 flex-row 2xl:w-[50%] lg:w-[50%] w-full my-o mx-auto&quot;]/li[@class=&quot;flex items-center signup-radio&quot;]</value>
+      <webElementGuid>6ed19e0d-4e3d-4a92-bd07-56053812ffaf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div/ul/li[2]</value>
+      <webElementGuid>be6d62e3-fa7e-4254-bbea-b713acf01aa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate'])[1]/following::li[1]</value>
+      <webElementGuid>432432b5-6630-4755-9d35-65305f651674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources'])[2]/following::li[2]</value>
+      <webElementGuid>fc58dcf8-dc10-4fe0-a2f7-855b9b2fe87c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Sign Up'])[1]/preceding::li[1]</value>
+      <webElementGuid>781a1996-216e-4f12-b0b9-94cec1636b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]</value>
+      <webElementGuid>87c94430-70f0-4880-95b4-5aafc5d225e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'Individual' or . = 'Individual')]</value>
+      <webElementGuid>56573ae9-36c4-4605-ba54-b24bf04b359d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

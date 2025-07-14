@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_M3ta Singapore Pte Ltd</name>
+   <tag></tag>
+   <elementGuidId>b661a49b-1844-4238-b985-7b7f9e96c8f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[7]/div/div/div/div/button[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;M3ta Singapore Pte Ltd&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a0612d6d-74ed-4920-8ee0-ae7ffdf452d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font-normal</value>
+      <webElementGuid>0197b3d5-6749-4fe3-a0dc-aa2f8596df43</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>M3ta Singapore Pte Ltd</value>
+      <webElementGuid>679986ac-c89d-4088-8771-d751cf6b861e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[2]/div[@class=&quot;main-page-section&quot;]/div[@class=&quot;signup-selection&quot;]/div[@class=&quot;flex flex-wrap justify-center&quot;]/div[@class=&quot;w-full 2xl:pt-10 lg:pt-10 md:pt-5&quot;]/div[@class=&quot;relative flex flex-col min-w-0 break-words bg-white w-full mb-6&quot;]/div[@class=&quot;2xl:pb-14 2xl:pt-10 lg:pb-14 pb-7 pt-5 lg:pt-10 flex-auto&quot;]/div[@class=&quot;tab-content tab-space&quot;]/div[@class=&quot;grid grid-cols-12 gap-2&quot;]/div[@class=&quot;col-span-12&quot;]/div[@class=&quot;corporate-signup-sec&quot;]/div[@class=&quot;Fields-information-sec&quot;]/div[@class=&quot;organisation-info-sec&quot;]/div[@class=&quot;grid grid-cols-12 gap-4&quot;]/div[@class=&quot;xl:col-span-12 md:col-span-12 col-span-12&quot;]/div[@class=&quot;2xl:mt-12 lg:mt-12 mt-5&quot;]/div[@class=&quot;grid grid-cols-12 2xl:gap-6 lg:gap-6 gap-3&quot;]/div[@class=&quot;input-sec-texts personal-info 2xl:col-span-6 lg:col-span-6 md:col-span-12 col-span-12&quot;]/div[@class=&quot;flield-sec&quot;]/div[@class=&quot;relative inline-flex w-full&quot;]/div[@class=&quot;options z-10 absolute top-full left-0 w-full font-normal bg-white border border-slate-200 py-1.5 rounded shadow-lg overflow-hidden mt-1 enter-done&quot;]/div[@class=&quot;text-sm text-[#757575] font-normal dropdown-option&quot;]/button[@class=&quot;flex items-center font-normal w-full text-[#757575] hover:bg-slate-50 py-1 px-3 cursor-pointer false&quot;]/span[@class=&quot;font-normal&quot;]</value>
+      <webElementGuid>103500db-103b-443b-92e9-7709f2d9d114</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[7]/div/div/div/div/button[2]/span</value>
+      <webElementGuid>ef04b476-f5b8-4ca3-997e-6ac902f847fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/following::span[1]</value>
+      <webElementGuid>6d496c37-33be-4de3-9990-830ae759d1f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::span[2]</value>
+      <webElementGuid>93ba830c-7d50-433f-aa6a-768199b1a7dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Elixir Technology Pte Ltd'])[1]/preceding::span[1]</value>
+      <webElementGuid>484d0b09-5aa2-41cc-95e3-75fada9cea72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chang Family Foundation Ltd'])[1]/preceding::span[2]</value>
+      <webElementGuid>88b55d20-7d4d-436c-83ab-e34b620e40ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='M3ta Singapore Pte Ltd']/parent::*</value>
+      <webElementGuid>05c3efc3-c570-49ed-bb87-99855f0428b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div/button[2]/span</value>
+      <webElementGuid>3388fae5-033f-4916-a1ef-c5be589ffb1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'M3ta Singapore Pte Ltd' or . = 'M3ta Singapore Pte Ltd')]</value>
+      <webElementGuid>42938eac-9a55-4546-aeef-ded3d36fe14a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

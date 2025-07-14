@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Select_css-ackcql</name>
+   <tag></tag>
+   <elementGuidId>aebed41b-f1ba-44bd-b376-f32ba08f0145</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-ackcql</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[5]/div/div/span/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.css-ackcql</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1b941be3-7a1a-416e-bfa2-3d2e60706d88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-ackcql</value>
+      <webElementGuid>ede310f2-b3e7-4287-91df-d9097458efad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[2]/div[@class=&quot;main-page-section&quot;]/div[@class=&quot;signup-selection&quot;]/div[@class=&quot;flex flex-wrap justify-center&quot;]/div[@class=&quot;w-full 2xl:pt-10 lg:pt-10 md:pt-5&quot;]/div[@class=&quot;relative flex flex-col min-w-0 break-words bg-white w-full mb-6&quot;]/div[@class=&quot;2xl:pb-14 2xl:pt-10 lg:pb-14 pb-7 pt-5 lg:pt-10 flex-auto&quot;]/div[@class=&quot;tab-content tab-space&quot;]/div[@class=&quot;grid grid-cols-12 gap-2&quot;]/div[@class=&quot;col-span-12&quot;]/div[@class=&quot;corporate-signup-sec&quot;]/div[@class=&quot;Fields-information-sec&quot;]/div[@class=&quot;organisation-info-sec&quot;]/div[@class=&quot;grid grid-cols-12 gap-4&quot;]/div[@class=&quot;xl:col-span-12 md:col-span-12 col-span-12&quot;]/div[@class=&quot;2xl:mt-12 lg:mt-12 mt-5&quot;]/div[@class=&quot;grid grid-cols-12 2xl:gap-6 lg:gap-6 gap-3&quot;]/div[@class=&quot;input-sec-texts personal-info 2xl:col-span-6 lg:col-span-6 md:col-span-12 col-span-12&quot;]/div[@class=&quot;flield-sec&quot;]/div[1]/span[@class=&quot;d-inline-block multiselect-input&quot;]/div[@class=&quot;custom-checkbox-select css-b62m3t-container&quot;]/div[@class=&quot;css-1rjh3ff-control&quot;]/div[@class=&quot;css-1d8n9bt&quot;]/div[@class=&quot;css-ackcql&quot;]</value>
+      <webElementGuid>3983a92e-fea9-454d-81c3-17f29e2fee08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div[2]/div/div/div/div/div/div/div/div/div/div/div[2]/div/div/div/div/div/div[5]/div/div/span/div/div/div/div[2]</value>
+      <webElementGuid>ffc9a778-708b-45be-a771-82764a602d82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/following::div[1]</value>
+      <webElementGuid>376cfe68-418b-48b3-878a-24c32d8c2810</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::div[6]</value>
+      <webElementGuid>22ef7be9-ec80-421e-8d14-ceb6b5e18838</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select all'])[1]/preceding::div[3]</value>
+      <webElementGuid>196cdf0e-c150-475c-99a0-39d2a9556bb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Assistant Rec'])[1]/preceding::div[4]</value>
+      <webElementGuid>83fe151d-d1df-45c2-b8f9-108fec585033</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/div/div/div[2]</value>
+      <webElementGuid>55316eeb-0969-4724-9164-73547af186e7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
