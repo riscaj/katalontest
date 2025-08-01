@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>0d277009-aaa9-40a9-8a03-205ba3bef54f</webElementGuid>
+      <webElementGuid>b591202e-7187-4e0d-bc37-afa3154f8808</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>declarationPolicy</value>
-      <webElementGuid>5334fb49-7bbf-49ac-be27-0f9e1e536b6c</webElementGuid>
+      <webElementGuid>96be57fe-7eda-4df0-bca9-823ee724b10f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>declarationPolicy</value>
-      <webElementGuid>f212b5f3-c351-44b9-abab-5e52048044f7</webElementGuid>
+      <webElementGuid>5e994a6f-4071-4d91-a4f4-68979d6ab1cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>checkbox</value>
-      <webElementGuid>d8d75e35-68dd-456c-9c8f-708db12278d9</webElementGuid>
+      <webElementGuid>0fb2ba6e-9c27-4f6c-b919-6fe60a5bfba4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cursor-pointer h-4 w-4 text-[#313984] focus:ring-[#313984] rounded check-box-custom</value>
-      <webElementGuid>22aa56c0-1dc6-4278-ae8c-9411d5bbbdce</webElementGuid>
+      <webElementGuid>54efb1d1-3f57-4ae4-82a2-e876de3324a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>value</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>f1f70663-1436-4414-830b-b85bf21d9206</webElementGuid>
+      <webElementGuid>dd440a60-3f68-4d84-932b-7eb2cde552f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;declarationPolicy&quot;)</value>
-      <webElementGuid>e41cc18d-cee0-4b9b-893a-c6e3978f4a82</webElementGuid>
+      <webElementGuid>322dc0f0-3cf1-48aa-ad35-41170bd4b937</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -85,7 +85,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='declarationPolicy']</value>
-      <webElementGuid>70c314d1-86d1-42fa-812f-0bbc56aaef7c</webElementGuid>
+      <webElementGuid>9f668298-d4c8-43a1-b1c0-fbed77c718f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[2]/div[6]/div/div/div/input</value>
+      <webElementGuid>23e09ed6-adac-49e3-8500-61cf33c42f9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/div/input</value>
+      <webElementGuid>6f72ed84-5198-4cb9-b553-a7bde3606288</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'declarationPolicy' and @name = 'declarationPolicy' and @type = 'checkbox']</value>
+      <webElementGuid>244d80de-b1ca-406e-993a-333bcbec5ee2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,13 +126,5 @@
       <type>Main</type>
       <value>//div[4]/div/div/div/input</value>
       <webElementGuid>e9ee3736-c7de-42ee-adfc-5e4cb6757381</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//input[@id = 'declarationPolicy' and @name = 'declarationPolicy' and @type = 'checkbox']</value>
-      <webElementGuid>4e56df5e-3e82-49ff-9907-9463d31d5961</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

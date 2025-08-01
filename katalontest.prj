@@ -6,12 +6,12 @@
    <UUID>9e0f7905-accd-4379-b238-b5541be5daca</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>10.2.4</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>10.2.4</modifiedVersion>
+   <modifiedVersion>10.3.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
-   <projectFileLocation>/Users/riscajulinarti/git/katalontest/katalontest.prj</projectFileLocation>
+   <projectFileLocation>C:\Users\MJ\git\katalontest\katalontest.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>

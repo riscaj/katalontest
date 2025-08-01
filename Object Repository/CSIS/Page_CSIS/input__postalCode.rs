@@ -29,23 +29,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>b6012925-8ce6-4a04-8220-db9f83d71a5c</webElementGuid>
+      <webElementGuid>cb864402-72b1-404a-8136-eb1946541038</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value> w-full custom-input </value>
-      <webElementGuid>10d2b71a-702a-4da0-b5b7-63d36e5c965c</webElementGuid>
+      <value>w-full custom-input mt-5</value>
+      <webElementGuid>c6fa9fc8-0825-4902-98b8-17d55f2f9f4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>number</value>
-      <webElementGuid>2820ad34-7712-4dfb-8d27-6f100cab1df4</webElementGuid>
+      <value>text</value>
+      <webElementGuid>9babebef-5ee7-4ec2-93e3-66ee01a9a7ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>name</name>
       <type>Main</type>
       <value>postalCode</value>
-      <webElementGuid>cd97ce08-e023-411f-97b6-7b337692d6f5</webElementGuid>
+      <webElementGuid>d86dde07-a83d-4ffd-9e8f-f4fe3b961c9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -68,8 +68,16 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[1]/div[@class=&quot;main-page-section md:mt-10&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;lg:mt-6 mt-5&quot;]/div[@class=&quot;grid grid-cols-12 gap-6 pb-8&quot;]/div[@class=&quot;individual-sec input-sec-texts personal-info 2xl:col-span-6 lg:col-span-6 md:col-span-12 col-span-12&quot;]/div[@class=&quot;flield-sec&quot;]/div[@class=&quot;w-full custom-inputs&quot;]/div[@class=&quot;w-full&quot;]/input[@class=&quot;w-full custom-input&quot;]</value>
-      <webElementGuid>7fa4f58f-a000-4fc9-9ceb-387c90bea862</webElementGuid>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[1]/div[@class=&quot;main-page-section md:mt-10&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;lg:mt-12 mt-5&quot;]/div[@class=&quot;grid grid-cols-12 gap-6 pb-8&quot;]/div[@class=&quot;individual-sec input-sec-texts personal-info 2xl:col-span-6 lg:col-span-6 md:col-span-12 col-span-12&quot;]/div[@class=&quot;flield-sec&quot;]/div[@class=&quot;w-full custom-inputs&quot;]/input[@class=&quot;w-full custom-input mt-5&quot;]</value>
+      <webElementGuid>8721003d-4583-448d-a5b6-e64a6c294b61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>maxlength</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>ef7284c0-9ba3-4d28-aac2-6a1e6def5290</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +85,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='postalCode']</value>
-      <webElementGuid>e2136ce9-0135-4438-971f-4c11664cca8f</webElementGuid>
+      <webElementGuid>79a7a333-3490-4702-a462-86efa8f19b93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[2]/div[2]/div/div[14]/div/div/input</value>
+      <webElementGuid>d8b325ff-dd37-4ab0-8767-b0b08b238ae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[14]/div/div/input</value>
+      <webElementGuid>bc0ead74-5e87-4fbb-9b7d-1c3b06f84a62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @name = 'postalCode']</value>
+      <webElementGuid>9b3792de-43c4-4444-bbaa-0ea94c2b0f26</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
