@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__btn btn-dropdown justify-between fo_08df5f_2</name>
+   <tag></tag>
+   <elementGuidId>f26cf383-2c73-4133-a431-f8126ba986ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='IndividualBookingPaymentId']/div/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>593e7db7-5d11-4cad-88e5-6def6dbc56e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-dropdown justify-between font-normal py-3 w-full bg-white border-[#212529] hover:border-[#e5322b] text-[#212529] px-4</value>
+      <webElementGuid>3c451b97-216f-472f-8c06-72859c0ec811</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select date range</value>
+      <webElementGuid>417029df-308b-452b-9bdf-88cd24aea19b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4f427f69-1b7e-4643-9203-125b5c0da885</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>9445e6ec-2259-43b5-a39b-b1ca8a1f6cac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>69f948fd-5671-4c30-a643-bf3eb84b6155</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IndividualBookingPaymentId&quot;)/div[@class=&quot;flield-sec&quot;]/div[@class=&quot;w-full custom-inputs&quot;]/div[@class=&quot;relative inline-flex w-full mobile-14 rounded-md&quot;]/button[@class=&quot;btn btn-dropdown justify-between font-normal py-3 w-full bg-white border-[#212529] hover:border-[#e5322b] text-[#212529] px-4&quot;]</value>
+      <webElementGuid>f8fba746-f09a-4563-89fa-1d35a2c11721</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='IndividualBookingPaymentId']/div/div/div/button</value>
+      <webElementGuid>fd6463ee-b757-4fe9-b884-1570c0b8bff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[11]/following::button[1]</value>
+      <webElementGuid>8f97dc33-aa9e-436b-8957-6cede5c5ef57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[4]/preceding::button[1]</value>
+      <webElementGuid>e3fa9a24-0594-4f98-aa98-658080b3fb8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div/div/button</value>
+      <webElementGuid>0e0ed9b0-231a-4ee2-a28d-71e834d4ebbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>6bc5ee77-2b7f-40fe-9b26-d0b8e1976e89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Back_w-32 px-7 py-2 btn-sm btn-red t_9ef9c4_1</name>
+   <tag></tag>
+   <elementGuidId>a6a9a2e0-c145-4bae-913e-6b615bdd5ed7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.w-32.px-7.py-2.btn-sm.btn-red.text-lg.text-white</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[6]/div/div[3]/div[2]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d968d851-593f-4d3b-931b-4e104f38cb6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-32 px-7 py-2 btn-sm btn-red text-lg text-white</value>
+      <webElementGuid>50a1e021-b8da-4d3d-8d37-9ce72059e04c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Next</value>
+      <webElementGuid>d0bd1f3b-d1d9-444b-a6dc-a7f924682fd5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[1]/div[@class=&quot;main-page-section mt-10&quot;]/div[@class=&quot;mt-14&quot;]/div[@class=&quot;pt-8&quot;]/div[@class=&quot;flex flex-col lg:flex-row lg:items-center lg:justify-between mb-5 mt-2 lg:mb-16 lg:mt-8&quot;]/div[@class=&quot;flex flex-col items-end&quot;]/button[@class=&quot;w-32 px-7 py-2 btn-sm btn-red text-lg text-white&quot;]</value>
+      <webElementGuid>3b519bd5-92de-4067-bdd9-db7e482c3c12</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[6]/div/div[3]/div[2]/button</value>
+      <webElementGuid>49499e7c-a53e-42ff-b542-4756f7f50b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[2]/following::button[1]</value>
+      <webElementGuid>fb28cd32-1ce8-4ded-9101-fa41867bee12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PO Number :'])[1]/following::button[2]</value>
+      <webElementGuid>be589409-4920-4c0c-a055-b8af81ee1637</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::button[1]</value>
+      <webElementGuid>03492a23-0b6f-4298-b38c-7e980e96804b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Practitioner’s Directory'])[1]/preceding::button[1]</value>
+      <webElementGuid>2c34b14e-5aa6-46d3-9867-e2bea0e51802</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Next']/parent::*</value>
+      <webElementGuid>b1d184fd-a931-4db2-af16-622b94c99ba9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/button</value>
+      <webElementGuid>6c4012b9-0a38-4317-aa4c-9a8af45e14a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Next' or . = 'Next')]</value>
+      <webElementGuid>6f43570a-6554-41c4-826d-48b5cfdd75ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

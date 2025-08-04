@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_1635.00_btn btn-red text-white text-_f0c40b</name>
+   <tag></tag>
+   <elementGuidId>077930c8-f10b-4dca-810b-cd62b9246f17</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div[10]/div/div[2]/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>1aa343aa-c972-4aac-9ce8-ea762570bd21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-red text-white text-[20px] font-bold</value>
+      <webElementGuid>3fa9d9c0-4bd0-4184-a8bf-e1a15818438a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Register</value>
+      <webElementGuid>5ad7f0f8-520d-4e05-ac9f-b14364b4a82d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[1]/div[1]/div[@class=&quot;2xl:py-10 lg:py-10 pt-0&quot;]/div[@class=&quot;main-page-section&quot;]/div[@class=&quot;pb-6 pt-5&quot;]/div[@class=&quot;flex items-center justify-center pt-10&quot;]/div[@class=&quot;space-y-4&quot;]/button[@class=&quot;btn btn-red text-white text-[20px] font-bold&quot;]</value>
+      <webElementGuid>b5c0373a-c69c-4095-bd1e-3ba37c8ed457</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div[10]/div/div[2]/div[2]/div/button</value>
+      <webElementGuid>d6c66944-7c1c-4787-a329-de76f88c378b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$ 1635.00'])[1]/following::button[1]</value>
+      <webElementGuid>14c18439-c5ad-48cd-96bd-0d354bb0dfee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Non Member'])[1]/following::button[1]</value>
+      <webElementGuid>e22876b1-f5dc-41d9-864b-0a29f84d7adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Back'])[1]/preceding::button[1]</value>
+      <webElementGuid>3b1c1978-4f16-4068-b09c-52c24e9b83d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[2]/preceding::button[1]</value>
+      <webElementGuid>ca207385-3382-4fff-946b-6cb0860ddbf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Register']/parent::*</value>
+      <webElementGuid>f22db547-eadc-49dd-8666-5cc0c51e049c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>2c3cec3f-3753-4a06-b5b0-853389866c5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Register' or . = 'Register')]</value>
+      <webElementGuid>f2820bce-e43e-4960-b443-48406d232a48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_CPD_title</name>
+   <tag></tag>
+   <elementGuidId>d241ac3a-11be-4667-8489-281752a00895</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div[4]/div/div[2]/div[2]/div/div[2]/div/div/div[4]/a/div/div[2]/div/h3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>b77a78b8-1c4c-4f39-8b2f-8f3744bff5c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>title</value>
+      <webElementGuid>7739d255-334a-4e86-bd75-40cc6a8b11c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Entry Coference </value>
+      <webElementGuid>3112460f-6db9-438d-96de-11af4796cc1b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[1]/div[1]/div[@class=&quot;upcomming-event-main&quot;]/div[@class=&quot;main-page-section full-page event-page&quot;]/div[@class=&quot;body-part&quot;]/div[@class=&quot;grid grid-cols-12 gap-6&quot;]/div[@class=&quot;results-section md:pb-10 pb-0 2xl:col-span-9 lg:col-span-9 md:col-span-12 col-span-12 xl:pl-10 outside-click small-tab-device-full&quot;]/div[1]/div[@class=&quot;article-list-section&quot;]/div[@class=&quot;md:mt-14 mt-7&quot;]/div[@class=&quot;grid grid-cols-12 2xl:gap-12 gap-6 mx-auto&quot;]/div[@class=&quot;2xl:col-span-4 lg:col-span-6 md:col-span-6 sm:col-span-6 col-span-6 md:mb-0 mb-3 h-full w-full&quot;]/a[@class=&quot;h-full w-full cursor-pointer mb-2 d-block&quot;]/div[@class=&quot;event-main-card&quot;]/div[@class=&quot;event-detail&quot;]/div[@class=&quot;top-sec&quot;]/h3[@class=&quot;title&quot;]</value>
+      <webElementGuid>49bff527-8ffd-4336-8b50-c258f3d2e1f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div[4]/div/div[2]/div[2]/div/div[2]/div/div/div[4]/a/div/div[2]/div/h3</value>
+      <webElementGuid>57098783-3971-4405-9d49-4fb189e40a29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CPD'])[4]/following::h3[1]</value>
+      <webElementGuid>e2797c46-c31a-44e3-b7ee-fd9815d48fa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In-Person'])[4]/following::h3[1]</value>
+      <webElementGuid>7a5bad2b-31a5-47ae-8f27-874ceb0f83a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From $545.00'])[1]/preceding::h3[1]</value>
+      <webElementGuid>1cd97abc-f2d8-438d-a74c-46720902e53b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Entry Coference']/parent::*</value>
+      <webElementGuid>0345f12f-9f9f-439d-a306-91441ba3c272</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/div/div[2]/div/h3</value>
+      <webElementGuid>85168066-1d83-4358-a989-f1f6b5822778</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Entry Coference ' or . = 'Entry Coference ')]</value>
+      <webElementGuid>bd365a3b-cabb-41bf-a7d0-30805c0fc3ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

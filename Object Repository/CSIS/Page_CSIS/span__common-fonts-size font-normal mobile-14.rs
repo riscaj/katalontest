@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__common-fonts-size font-normal mobile-14</name>
+   <tag></tag>
+   <elementGuidId>5dc39bc1-f321-45a6-94b9-b68e66eff5b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[2]/div[5]/div/div/div[2]/div/div/div/div/div/button/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b78584bb-d489-4ad8-8295-b6cb613d5ee3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>common-fonts-size font-normal mobile-14</value>
+      <webElementGuid>6c3e608f-54a6-4418-a2b0-cf4d13f6798f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>0f6609f6-af0c-405e-8e60-ad57ce7a38b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[1]/div[@class=&quot;main-page-section md:mt-10&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;custom-card workshop-shadow md:px-10 px-3 md:pb-10 pb-5 md:mb-2 mb-[30px]&quot;]/div[@class=&quot;md:mt-12 pt-8&quot;]/div[@class=&quot;grid grid-cols-12 gap-6 pb-8&quot;]/div[@class=&quot;individual-sec input-sec-texts personal-info 2xl:col-span-6 lg:col-span-6 md:col-span-12 col-span-12&quot;]/div[@class=&quot;grid grid-cols-12 gap-6&quot;]/div[@class=&quot;col-span-12&quot;]/div[@class=&quot;flex items-center&quot;]/div[@class=&quot;w-[130px] add-edite-f-name&quot;]/div[@class=&quot;relative inline-flex w-full mobile-14 rounded-md&quot;]/button[@class=&quot;btn btn-dropdown justify-between font-normal py-3 w-full bg-white border-[#212529] hover:border-[#e5322b] text-[#212529] px-4&quot;]/span[@class=&quot;flex items-center&quot;]/span[@class=&quot;common-fonts-size font-normal mobile-14&quot;]</value>
+      <webElementGuid>d04e51dd-c878-455f-97db-4e31edf337ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[2]/div[5]/div/div/div[2]/div/div/div/div/div/button/span/span</value>
+      <webElementGuid>66e6d390-0e51-4f53-9ec2-ad6ec0d8a532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[18]/following::span[2]</value>
+      <webElementGuid>d51beb37-19bf-416a-af81-1d59dd763665</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[6]/preceding::span[1]</value>
+      <webElementGuid>f7c516c6-7d4c-4c82-a1ad-74b73d18f5ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mr'])[4]/preceding::span[2]</value>
+      <webElementGuid>9d3d9083-04f5-4ccc-bfb3-f807c56f8c40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div[2]/div/div/div/div/div/button/span/span</value>
+      <webElementGuid>ac969e10-0663-43f3-8be4-973b21bdf63b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>28e3d735-1bf0-4182-ab95-99529308c175</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

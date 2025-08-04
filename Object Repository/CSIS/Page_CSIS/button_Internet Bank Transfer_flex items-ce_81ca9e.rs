@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Internet Bank Transfer_flex items-ce_81ca9e</name>
+   <tag></tag>
+   <elementGuidId>6e37d5bb-1cf1-48c8-bc0d-289dd19a8365</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='IndividualBookingPaymentId']/div/div/div/div/div/button[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>dc9a60a8-3f42-4b6c-b9f2-0a5e2ada4370</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>33b157d7-69e7-42a0-ad70-d0e803636050</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center font-normal w-full text-[#212529] hover:bg-slate-50 py-1 px-3 cursor-pointer false</value>
+      <webElementGuid>8a50d286-5ba4-4f9c-b997-26a267cd5d99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pay Now</value>
+      <webElementGuid>b735281a-c1c9-47f7-bb7a-8d742795e2a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;IndividualBookingPaymentId&quot;)/div[@class=&quot;flield-sec&quot;]/div[@class=&quot;w-full custom-inputs&quot;]/div[@class=&quot;relative inline-flex w-full mobile-14 rounded-md&quot;]/div[@class=&quot;options z-10 absolute top-full left-0 w-full font-normal bg-white border border-slate-200 py-1.5 rounded shadow-lg overflow-hidden mt-1 enter-done&quot;]/div[@class=&quot;text-sm text-[#212529] font-normal dropdown-option&quot;]/button[@class=&quot;flex items-center font-normal w-full text-[#212529] hover:bg-slate-50 py-1 px-3 cursor-pointer false&quot;]</value>
+      <webElementGuid>b33c83b0-425b-4593-99f8-4df9629815e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='IndividualBookingPaymentId']/div/div/div/div/div/button[3]</value>
+      <webElementGuid>4edb3a7a-5159-4bf3-89e5-e50889962628</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Internet Bank Transfer'])[1]/following::button[1]</value>
+      <webElementGuid>3be6903a-e9bb-4f95-856e-0d35b0dad297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[4]/following::button[2]</value>
+      <webElementGuid>b1e03d80-1b39-47a1-92b3-4fe39bbbcefd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cheque'])[1]/preceding::button[1]</value>
+      <webElementGuid>8826b7e2-080b-47a8-b908-e447375fb7c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[15]/div/div/div/div/div/button[3]</value>
+      <webElementGuid>1b3a2786-36b5-47aa-b678-5ae072b7aca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Pay Now' or . = 'Pay Now')]</value>
+      <webElementGuid>a6c48ec3-0bec-4d49-8a05-36d7e8d2a048</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

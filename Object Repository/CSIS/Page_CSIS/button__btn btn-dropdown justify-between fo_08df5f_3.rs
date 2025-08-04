@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button__btn btn-dropdown justify-between fo_08df5f_3</name>
+   <tag></tag>
+   <elementGuidId>ef4942df-4c46-4dae-8831-9eb79567af41</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[2]/div[4]/div/div/div[2]/div/div/div/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>84ff01e6-20c4-40d9-a225-e937c5c9c2b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-dropdown justify-between font-normal py-3 w-full bg-white border-[#212529] hover:border-[#e5322b] text-[#212529] px-4</value>
+      <webElementGuid>023091de-4859-4137-9c3b-a726eef2787e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select date range</value>
+      <webElementGuid>2c5f24db-9f56-43df-b539-ec68f4934e1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a81ffe18-9e94-49fd-988f-493167dbeff2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>f866f032-32e7-43f5-b95c-9db5490a2b80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Select</value>
+      <webElementGuid>d5aebdbd-b2d4-4357-a0ce-78ecd412b67c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[1]/div[@class=&quot;main-page-section md:mt-10&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;custom-card workshop-shadow md:px-10 px-3 md:pb-10 pb-5 md:mb-2 mb-[30px]&quot;]/div[@class=&quot;md:mt-12 pt-8&quot;]/div[@class=&quot;grid grid-cols-12 gap-6 pb-8&quot;]/div[@class=&quot;individual-sec input-sec-texts personal-info 2xl:col-span-6 lg:col-span-6 md:col-span-12 col-span-12&quot;]/div[@class=&quot;grid grid-cols-12 gap-6&quot;]/div[@class=&quot;col-span-12&quot;]/div[@class=&quot;flex items-center&quot;]/div[@class=&quot;w-[130px] add-edite-f-name&quot;]/div[@class=&quot;relative inline-flex w-full mobile-14 rounded-md&quot;]/button[@class=&quot;btn btn-dropdown justify-between font-normal py-3 w-full bg-white border-[#212529] hover:border-[#e5322b] text-[#212529] px-4&quot;]</value>
+      <webElementGuid>a270f970-486c-4a27-bb8c-854e2bcbcc2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[2]/div[4]/div/div/div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>1ded7c27-6644-4479-a700-0eaa254a5c9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[12]/following::button[1]</value>
+      <webElementGuid>65dd7e2c-49b0-40fe-ac2f-1d08925f139a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[5]/preceding::button[1]</value>
+      <webElementGuid>d554dd69-7dea-44ee-8f32-e0e208adcb77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div[2]/div/div/div/div/div/button</value>
+      <webElementGuid>99db6b28-77b6-45c7-b4e3-32fdb809d4b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Select' or . = 'Select')]</value>
+      <webElementGuid>646d16d0-8464-4f84-bc88-570f88416475</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

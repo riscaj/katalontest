@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_No. of Attendees_custom-input btn bt_826b86</name>
+   <tag></tag>
+   <elementGuidId>12ba3795-c5e8-4d82-ac51-abbe5655733c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[2]/div[3]/div/div/div/div/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c95b4414-00a4-4022-9184-e31eeb45b266</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>custom-input btn btn-dropdown justify-between py-3 font-22 w-full bg-white border-[#757575] hover:border-[#e5322b] text-[#757575] px-4</value>
+      <webElementGuid>1575fd75-3ba6-4561-bb78-f93a77dcc3e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Select date range</value>
+      <webElementGuid>31b614ac-d73d-49c3-9a21-6132f29687a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-haspopup</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f010767e-e387-496e-917a-f910f2b768b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>a9b986ee-797f-48fd-b365-8e12686fd6f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>affc2ae7-42c1-4a55-9d04-728e5bb5b2e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[1]/div[@class=&quot;main-page-section md:mt-10&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;lg:mt-12 mt-5&quot;]/div[@class=&quot;xl:col-span-12 md:col-span-12 col-span-12&quot;]/div[@class=&quot;grid grid-cols-12 gap-1 py-12&quot;]/div[@class=&quot;2xl:col-span-2 lg:col-span-3 col-span-12&quot;]/div[@class=&quot;text-base w-full text-[#757575] font-bold&quot;]/div[@class=&quot;relative inline-flex w-full&quot;]/button[@class=&quot;custom-input btn btn-dropdown justify-between py-3 font-22 w-full bg-white border-[#757575] hover:border-[#e5322b] text-[#757575] px-4&quot;]</value>
+      <webElementGuid>a3bd0483-b06e-41c2-b9a7-19af57f580ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[2]/div[3]/div/div/div/div/div/button</value>
+      <webElementGuid>bbe27428-daab-41c1-9572-f6d404e07b76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No. of Attendee/s'])[1]/following::button[1]</value>
+      <webElementGuid>2b84bb13-d9bc-477e-9c5c-7cbd65be3b15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attendee Information'])[2]/following::button[1]</value>
+      <webElementGuid>3913e953-2c82-427f-9195-dd115f0e19aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Declaration'])[1]/preceding::button[102]</value>
+      <webElementGuid>1f45d4d3-f296-49ea-9ea8-425b1f9812ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/button</value>
+      <webElementGuid>fc8eb1d3-0501-4ac8-897b-7214bf096102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '0' or . = '0')]</value>
+      <webElementGuid>035c9875-e22a-4be2-8980-8d194ff8f51b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

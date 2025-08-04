@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Select_flex items-center font-normal_7f38c3</name>
+   <tag></tag>
+   <elementGuidId>ddbb9366-8462-46cb-a0f2-d22b1c3fe2c2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[2]/div[2]/div[2]/div/div[13]/div/div/div/div/div/button[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>adbc539d-0f02-405e-bb59-31039d520e1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>aa09a6c2-a2c5-48c0-96b8-89f974d4a1e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center font-normal w-full text-[#212529] hover:bg-slate-50 py-1 px-3 cursor-pointer false</value>
+      <webElementGuid>9b5fba8c-9ac8-41bb-9f3d-e8dc79b24829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Singapore</value>
+      <webElementGuid>1d6157e1-3810-420b-9605-90d5811add30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;main-page-bg&quot;]/div[1]/div[@class=&quot;main-page-section md:mt-10&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;lg:mt-12 mt-5&quot;]/div[@class=&quot;grid grid-cols-12 gap-6 pb-8&quot;]/div[@class=&quot;individual-sec input-sec-texts personal-info 2xl:col-span-6 lg:col-span-6 md:col-span-12 col-span-12&quot;]/div[@class=&quot;flield-sec&quot;]/div[@class=&quot;w-full custom-inputs&quot;]/div[@class=&quot;relative inline-flex w-full mobile-14 rounded-md&quot;]/div[@class=&quot;options z-10 absolute top-full left-0 w-full font-normal bg-white border border-slate-200 py-1.5 rounded shadow-lg overflow-hidden mt-1 enter-done&quot;]/div[@class=&quot;text-sm text-[#212529] font-normal dropdown-option&quot;]/button[@class=&quot;flex items-center font-normal w-full text-[#212529] hover:bg-slate-50 py-1 px-3 cursor-pointer false&quot;]</value>
+      <webElementGuid>ea8d3948-8d01-40d8-9e27-ad5f7d3687df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[2]/div[2]/div[2]/div/div[13]/div/div/div/div/div/button[2]</value>
+      <webElementGuid>1659dcb1-4691-48d7-903a-ee425865977b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[3]/following::button[1]</value>
+      <webElementGuid>2c51f72a-e38d-41a3-beaf-71335d505c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/following::button[2]</value>
+      <webElementGuid>c6d90f12-9507-4988-b324-0a48d265b40f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Afghanistan'])[1]/preceding::button[1]</value>
+      <webElementGuid>00872c1f-98f9-4a5a-b859-3bb85caaf59e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[13]/div/div/div/div/div/button[2]</value>
+      <webElementGuid>6b6a490e-faa2-4e7c-a636-9176555255d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Singapore' or . = 'Singapore')]</value>
+      <webElementGuid>2645145f-1baf-4ecf-9fb9-0f8d0aa22d28</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
