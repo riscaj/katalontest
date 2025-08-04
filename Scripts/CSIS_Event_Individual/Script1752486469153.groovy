@@ -29,9 +29,9 @@ WebUI.click(findTestObject('Object Repository/CSIS/Page_CSIS/button_Book now'))
 
 WebUI.click(findTestObject('Object Repository/CSIS/Page_CSIS/button_Individual Booking'))
 
-WebUI.setText(findTestObject('Object Repository/CSIS/Page_CSIS/input__emailAddress'), 'marisca.julinarti+katalon1@flyingcape.com.sg')
+WebUI.setText(findTestObject('Object Repository/CSIS/Page_CSIS/input__emailAddress'), 'marisca.julinarti+katalon2@flyingcape.com.sg')
 
-WebUI.setText(findTestObject('Object Repository/CSIS/Page_CSIS/input__confirmEmailAddress'), 'marisca.julinarti+katalon1@flyingcape.com.sg')
+WebUI.setText(findTestObject('Object Repository/CSIS/Page_CSIS/input__confirmEmailAddress'), 'marisca.julinarti+katalon2@flyingcape.com.sg')
 
 WebUI.click(findTestObject('Object Repository/CSIS/Page_CSIS/span_Select'))
 
@@ -39,7 +39,7 @@ WebUI.click(findTestObject('Object Repository/CSIS/Page_CSIS/span_Ms'))
 
 WebUI.setText(findTestObject('Object Repository/CSIS/Page_CSIS/input_Capt_firstName'), 'Marisca')
 
-WebUI.setText(findTestObject('Object Repository/CSIS/Page_CSIS/input__lastName'), 'K')
+WebUI.setText(findTestObject('Object Repository/CSIS/Page_CSIS/input__lastName'), 'J')
 
 WebUI.setText(findTestObject('Object Repository/CSIS/Page_CSIS/input__contactNumber'), '6878177182')
 
