@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>CSIS_Event_Corporate</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ccc4d8fd-271e-4674-8c6d-6dca6b5ef724</testCaseGuid>
+</TestCaseEntity>
